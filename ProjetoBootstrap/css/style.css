@@ -1,0 +1,22 @@
+#topo{
+	padding: 0px;
+}
+#navbar{
+	background: #07a3b2;
+}
+.tirarpadding{
+	padding: 0px;
+}
+.preto{
+	color: black;
+}
+
+.rodape {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: #07a3b2;
+  color: white;
+  text-align: center;
+}
